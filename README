@@ -1,0 +1,10 @@
+This is just a repository for the random algorithms I do in my spare time.
+
+Completed:
+
+- Conway's Game of Life iterator (python)
+- Depth-First maze generator (also python)
+
+WIP:
+
+- Mountain range generator
