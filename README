@@ -4,7 +4,9 @@ Completed:
 
 - Conway's Game of Life iterator (python)
 - Depth-First maze generator (also python)
+- Mountain generator
 
 WIP:
 
-- Mountain range generator
+- ASCII border tracer
+
