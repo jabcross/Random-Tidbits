@@ -66,7 +66,7 @@ def printMountain(h,w,m):
         print('')
                 
 printMountain(h,w,mountain)
-        
-print(mountain)
+       
+#print(mountain)
 
 
